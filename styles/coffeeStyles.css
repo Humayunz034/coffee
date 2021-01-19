@@ -1,0 +1,50 @@
+
+
+body {
+    background-color: #785533;
+}
+
+
+img {
+     max-width: 100%;
+  height: auto;
+    
+}
+
+div {
+ border: 5px outset #532C04;
+  background-color: #CFAA81;
+  text-align: center;
+    width: 800px;
+    margin: auto;
+}
+
+h1 {
+    font-family:monospace;
+    color: #532C04;
+    
+}
+
+p {
+   color: #532C04; 
+font-family:fantasy;
+    
+}
+
+hr {
+    
+    border-top: 5px dashed #532C04;
+    
+}
+
+h2 {
+       color: #532C04; 
+font-family:fantasy; 
+}
+
+li {
+    
+     color: #532C04; 
+font-family:fantasy;
+    
+}
